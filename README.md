@@ -22,6 +22,12 @@ I am a Computer Science & Engineering PhD Researcher and Technical Leader with o
 
 ---
 
+### 📚 Publications & Research
+* **PhD Research Abstract** — Presented and published in the *ACM Digital Library* (Pre-graduation milestone).
+* **Published IEEE Conference Papers** — Full-length research papers on Edge AI and anomaly detection. 
+  👉 View full text on my [arXiv Author Page](https://arxiv.org/a/albaiz_a_1.html).
+
+---
+
 ### 📬 Connect with Me
 * 📧 **Email:** [aalbaiz@gmail.com](mailto:aalbaiz@gmail.com)
-* 📄 **Research:** [arXiv Publications](https://arxiv.org/a/albaiz_a_1.html)
