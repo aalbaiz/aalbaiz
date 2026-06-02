@@ -22,14 +22,18 @@ I am a Computer Science & Engineering PhD Researcher and Technical Leader with o
 
 ---
 
-### 🌐 Academic Identifiers
-* 🆔 **ORCID iD:** [0009-0008-9692-3307](https://orcid.org/0009-0008-9692-3307)
 ### 📚 Publications & Research
-* **PhD Research Abstract** — Presented and published in the *ACM Digital Library* (Pre-graduation milestone).
-* **Published IEEE Conference Papers** — Full-length research papers on Edge AI and anomaly detection. 
+* 📄 **PhD Research Abstract** — Presented and published in the [ACM Digital Library](https://dl.acm.org/doi/10.1145/3736425.3772197) (Pre-graduation milestone).
+* 📝 **Published IEEE Conference Papers** — Full-length research papers on Edge AI and anomaly detection. 
   👉 View full text on my [arXiv Author Page](https://arxiv.org/a/albaiz_a_1.html).
 
 ---
 
+### 🌐 Academic Identifiers
+* 🆔 **ORCID iD:** [0009-0008-9692-3307](https://orcid.org/0009-0008-9692-3307)
+  
+---
+
 ### 📬 Connect with Me
 * 📧 **Email:** [aalbaiz@gmail.com](mailto:aalbaiz@gmail.com)
+  
