@@ -23,6 +23,5 @@ I am a Computer Science & Engineering PhD Researcher and Technical Leader with o
 ---
 
 ### 📬 Connect with Me
-* 💼 [LinkedIn](YOUR_LINKEDIN_URL_HERE)
-* 📧 [Email](mailto:aalbaiz@YOUR_EMAIL_DOMAIN.com)
-* 📄 [Research / arXiv](YOUR_ARXIV_AUTHOR_PAGE_HERE)
+* 📧 **Email:** [aalbaiz@gmail.com](mailto:aalbaiz@gmail.com)
+* 📄 **Research:** [arXiv Publications](https://arxiv.org/a/albaiz_a_1.html)
