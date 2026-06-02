@@ -22,6 +22,8 @@ I am a Computer Science & Engineering PhD Researcher and Technical Leader with o
 
 ---
 
+### 🌐 Academic Identifiers
+* 🆔 **ORCID iD:** [0009-0008-9692-3307](https://orcid.org/0009-0008-9692-3307)
 ### 📚 Publications & Research
 * **PhD Research Abstract** — Presented and published in the *ACM Digital Library* (Pre-graduation milestone).
 * **Published IEEE Conference Papers** — Full-length research papers on Edge AI and anomaly detection. 
